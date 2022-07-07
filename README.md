@@ -7,8 +7,13 @@ Driver images, each taken in a car with a driver doing something in the car (tex
 
 
 using deep learning :-
-dense layer 
-cnn model 
-data augmentation 
-transfer learning 
-visualization layers  
+
+-dense layer
+
+-cnn model
+
+-data augmentation
+
+-transfer learning
+
+-visualization layers  
